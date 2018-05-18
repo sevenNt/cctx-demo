@@ -1,5 +1,10 @@
 {
     "dependencies": {
-        "cctx": "1.0.1"
+        "ccxt": "1.0.1"
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sevenNt/cctx-demo"
     }
 }
